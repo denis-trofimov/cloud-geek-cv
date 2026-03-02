@@ -133,29 +133,139 @@ skills:
     items:
       - label: Golang
         level: 5
+      - label: Python
+        level: 5
+      - label: TypeScript
+        level: 5
+      - label: JavaScript
+        level: 5
+      - label: C++
+        level: 5
+      - label: C
+        level: 5
+      - label: Ruby
+        level: 5
+      - label: Bash
+        level: 5
+      - label: SQL
+        level: 5
+      - label: Flask
+        level: 5
+      - label: Gunicorn
+        level: 5
+      - label: gRPC
+        level: 5
+      - label: TensorFlow
+        level: 5
+      - label: NumPy
+        level: 5
+      - label: SQLAlchemy
+        level: 5
+      - label: ReactJS
+        level: 5
+      - label: Vue.js
+        level: 5
+      - label: Hugo
+        level: 5
+      - label: OpenCV
+        level: 5
+      - label: Caffe
+        level: 5
+      - label: SciPy
+        level: 5
+      - label: MQTT
+        level: 5
+      - label: RabbitMQ
+        level: 5
+      - label: Qt
+        level: 5
+      - label: PostgreSQL
+        level: 5
+      - label: MongoDB
+        level: 5
+      - label: Atlas MongoDB
+        level: 5
+      - label: Redis
+        level: 5
+      - label: MariaDB
+        level: 5
+      - label: SQLite
+        level: 5
+      - label: MySQL
+        level: 5
+      - label: Oracle DB
+        level: 5
+      - label: Git
+        level: 5
+      - label: GitHub
+        level: 5
+      - label: GitLab
+        level: 5
+      - label: Bitbucket
+        level: 5
+      - label: UML
+        level: 5
+      - label: HTML
+        level: 5
+      - label: XML
+        level: 5
+      - label: Ubuntu
+        level: 5
+      - label: Fedora Linux
+        level: 5
+      - label: Windows Server
+        level: 5
+      - label: Apache HTTP Server
+        level: 5
+      - label: WSGI
+        level: 5
       - label: Kubernetes
         level: 5
-      - label: Python
+      - label: Kubernetes API
+        level: 5
+      - label: Operator SDK (Go)
+        level: 5
+      - label: Docker
         level: 5
       - label: Terraform
         level: 5
       - label: Helm
         level: 5
-      - label: Docker
+      - label: Argo CD
         level: 5
-      - label: GitHub
+      - label: Helmfile
         level: 5
-      - label: Atlas MongoDB
+      - label: KubeDB
         level: 5
       - label: Google Cloud
         level: 5
+      - label: GCP GKE
+        level: 5
       - label: Amazon AWS
+        level: 5
+      - label: AWS EKS
         level: 5
       - label: Microsoft Azure
         level: 5
-      - label: C
+      - label: Azure AKS
         level: 5
-      - label: C++
+      - label: Atlas Cloud
+        level: 5
+      - label: Grafana Cloud
+        level: 5
+      - label: ELK
+        level: 5
+      - label: Firebase
+        level: 5
+      - label: GitHub CI
+        level: 5
+      - label: GitLab CI
+        level: 5
+      - label: TeamCity
+        level: 5
+      - label: Jira
+        level: 5
+      - label: Confluence
         level: 5
 
 languages:
