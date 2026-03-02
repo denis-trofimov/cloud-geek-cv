@@ -2,68 +2,60 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Denis Trofimov
+  given: Denis
+  family: Trofimov
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+postnominals: []
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Senior Software Developer, Team Lead
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Seasoned software developer, worked for start-ups, bank, industries like space and railroads.
+
+  I am a Go/Python/C++/C software engineer and working in software development since 2010.
+  For the last 3 years I did Platform Engineering, the development of the Internal Developer Portal (IDP),
+  and making organizations shift left on the DevOps paradigm.
+  In the past I've designed and developed standalone and client-server applications,
+  with databases like Oracle DB, PostgreSQL, and MySQL.
+  Created applications serving CRM, web automated order processing, and simulation of the technological
+  operation of railroad rolling stock.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Looking for job opportunities
+    url: ''
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/denist-huma
+  - icon: brands/github
+    url: https://github.com/denis-trofimov
+  - icon: brands/telegram
+    url: https://t.me/DenisTrofimovDev
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/denis-trofimov-dev/
+  - icon: brands/x
+    url: https://twitter.com/deniscloudgeek
+  - icon: at-symbol
+    url: mailto:silaradost@yandex.ru
+    label: E-mail Me    
+  - icon: academicons/cv
+    url: /uploads/resume.pdf
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Software Development
+  - Platform Engineering
+  - Cloud Computing
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MEng in Applied Mechanics
+    institution: Moscow State University after M. V. Lomonosov
+    end: "2002"
+  - degree: BSc in Applied Mechanics
+    institution: Moscow State University after M. V. Lomonosov
+    end: "2000"
 
 experience:
   - role: Senior AI Research Scientist
@@ -91,26 +83,9 @@ skills:
         level: 5
       - label: Cloud Computing
         level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
 
 languages:
-  - name: English
-    level: 5
+  - name: Russian
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
     label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
