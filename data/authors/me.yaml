@@ -63,46 +63,43 @@ experience:
     start: 2021-01-11
     end: 2024-06-17
     summary: |
-      * Designed and developed a custom Internal Developer Portal (IDP) for all Huma products,
-      enabling 0-day and some day-2 operations such as data backup and restore.
-      * Automated pull request preview environments for backend APIs, reducing deployment
-      time from eight hours to fifteen minutes.
-      * Created Kubernetes operators that provide instant access to AWS S3, Google Cloud Storage,
-      and Atlas MongoDB PostgreSQL and Redis cache.
-      * Automated CI/CD with Argo CD, Grafana Cloud, and related tooling, increasing speed and reliability.
-      * Led an internal platform team of two senior engineers for two years.
+      * Designed and launched a custom Internal Developer Portal (IDP) that showcases Huma clinical trials and patient monitoring apps, removing a DevOps demo bottleneck and becoming one of three cloud value streams highlighted in the 2023 investment round.
+      * Enabled product owners to prepare client demos in a self-service way via the IDP, eliminating reliance on the low-capacity DevOps team for demo setup and shortening demo preparation lead time.
+      * Automated pull request preview environments for backend APIs, reduced the deploy delay by 95% from 8h to 15min.
+      * Built Kubernetes operators that provision AWS S3, Google Cloud Storage, Atlas MongoDB, PostgreSQL, and Redis on demand, automating cloud resource management and cutting infrastructure costs by roughly 40%.
+      * Updated CI/CD with Argo CD, Grafana Cloud, and related tooling, increasing release speed and reliability for cloud platform services.
+      * Hired, led, and mentored a team of two senior software engineers for two years, setting technical direction for the internal platform.
   - role: Chief Technical Officer
     org: Sittme
     start: 2019-11-20
     end: 2020-06-30
     summary: |
-      * Led a cross-functional team (PM, designer, QA, backend, frontend, and mobile developers)
-      to build and operate a community-based babysitting mobile platform.
-      * Designed and implemented key features such as in-app notifications and video calls.
-      * Deployed 24 services to a private Kubernetes cluster for production and staging.
-      * Automated CI/CD to speed up testing and deployments, and mentored backend and frontend developers.
+      * Led a cross-functional team (PM, designer, QA, backend, frontend, and mobile developers) to build and operate a community-based babysitting mobile platform, aligning delivery with product and business goals.
+      * Designed and implemented core engagement features such as in-app notifications and video calls, improving communication between parents and babysitters.
+      * Deployed 24 microservices to a private Kubernetes cluster across production and staging environments, improving platform reliability and scalability.
+      * Automated CI/CD pipelines to accelerate testing and deployments, shortening feedback loops for the development team.
+      * Detected and resolved issues across services in production, increasing platform stability and user trust.
+      * Mentored backend and frontend developers, raising code quality and delivery autonomy across the team.
   - role: Senior Software Developer
-    org: Tinkoff
+    org: T-Bank (ex. Tinkoff)
     start: 2018-11-19
     end: 2019-05-31
     summary: |
-      * Built and implemented a voice assistant CMS with Flask and PostgreSQL.
-      * Redesigned a low-latency API using Go, Redis, and PostgreSQL.
-      * Refactored a text-to-speech API service using async gRPC Python.
-      * Deployed services to Kubernetes and automated CI/CD with TeamCity.
-      * Performed code reviews, interviewing, and mentoring.
+      * Built and rolled out a voice assistant CMS using Flask and PostgreSQL, giving product teams self-service control over voice scenarios and content.
+      * Redesigned a low-latency API in Go with Redis and PostgreSQL to meet strict latency and reliability requirements for the bank’s voice assistant.
+      * Refactored a text-to-speech API service using async gRPC in Python, increasing throughput and simplifying maintenance.
+      * Deployed services to a Kubernetes cluster and automated CI/CD with TeamCity, reducing manual deployment work and standardizing release workflows.
+      * Performed code reviews, interviewing, and mentoring, helping grow the team and maintain high engineering standards.
   - role: Lead Software Developer
     org: Vzor Systems, LLC
     start: 2017-05-03
     end: 2018-09-10
     summary: |
-      * Designed the architecture and developed a biometric identification software solution,
-      including GUI client, server, and embedded components.
-      * Led and mentored a team of two software developers.
-      * Used classic image processing algorithms and CNNs to optimize identity recognition.
-      * Performed technological proof tests and prepared NIST-compliant reports.
-      * Presented biometric identification prototypes at Russian conferences such as All-over-IP,
-      SKUD, and TB Security Technology.
+      * Designed the architecture and developed a biometric identification software solution, including GUI client, server, and embedded components, enabling high-accuracy identity verification for customers.
+      * Hired and led a team of two software developers, defining development practices and guiding delivery of biometric features.
+      * Applied classic image processing algorithms and CNNs to optimize identity recognition accuracy and performance.
+      * Performed technological proof tests and prepared NIST-compliant reports, demonstrating solution performance to stakeholders and regulators.
+      * Presented biometric identification prototypes at Russian conferences such as All-over-IP, SKUD, and TB Security Technology, increasing product visibility and credibility.
   - role: Backend Software Developer
     org: Bigur-consulting, LLC
     start: 2016-11-01
@@ -114,19 +111,17 @@ experience:
     start: 2011-03-15
     end: 2016-05-27
     summary: |
-      * Developed a client-server application that simulated the technological operation
-      of train stations, enabling the client to fulfill a track upgrade contract.
-      * Designed and delivered a custom client-server system to predict energy usage
-      in train sections.
-      * Took over and successfully delivered ongoing projects, maintaining MySQL and Oracle databases.
-      * Worked in a team with a project manager and two interns to achieve project goals.
+      * Developed and delivered a client-server application that simulated the technological operation of train stations, enabling the client to fulfill a track-upgrade contract at Syzran station 1.
+      * Designed and delivered a custom client-server system to predict energy usage in train sections, giving operators better planning and cost-control capabilities.
+      * Took over two in-flight projects when the lead programmer left, stabilizing delivery and preserving knowledge for the client.
+      * Successfully shipped software while maintaining MySQL and Oracle databases in production.
+      * Collaborated with a project manager and two interns to meet project goals, mentoring junior team members along the way.
   - role: Engineer
     org: Khrunichev State Research and Production Space Center
     start: 2010-11-01
     end: 2012-01-10
     summary: |
-      Developed two Windows desktop applications for satellite trajectory computations
-      using C++ and Borland C++ Builder.
+      * Developed two Windows desktop applications for satellite trajectory computations using C++ and Borland C++ Builder, supporting aerospace research and mission analysis teams.
 
 skills:
   - name: Technical Skills
