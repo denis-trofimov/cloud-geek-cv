@@ -58,6 +58,13 @@ education:
     end: "2000"
 
 experience:
+  - role: Software Architect
+    org: Scanner Travel LLC
+    start: 2025-01-01
+    summary: |
+      * Designed the software architecture for a data warehouse for a leasing company, consolidating data from core systems to improve reporting, risk analysis, and decision-making.
+      * Architected the refactoring of a core monolith into a service-oriented architecture (SOA) for a leasing company, defining service boundaries, integration contracts, and a migration roadmap to improve scalability and time-to-market for new features.
+      * Designed and developed new features for a client portal for an oil company, expanding self-service capabilities and improving visibility into contracts and operations for business users.
   - role: Lead Software Developer (Platform Team Lead SWE)
     org: Huma Therapeutics Ltd.
     start: 2021-01-11
@@ -144,6 +151,14 @@ skills:
         level: 5
       - label: SQL
         level: 5
+      - label: PHP
+        level: 5
+      - label: Laravel
+        level: 5
+      - label: REST API
+        level: 5
+      - label: Swagger
+        level: 5
       - label: Flask
         level: 5
       - label: Gunicorn
@@ -204,16 +219,6 @@ skills:
         level: 5
       - label: XML
         level: 5
-      - label: Ubuntu
-        level: 5
-      - label: Fedora Linux
-        level: 5
-      - label: Windows Server
-        level: 5
-      - label: Apache HTTP Server
-        level: 5
-      - label: WSGI
-        level: 5
       - label: Kubernetes
         level: 5
       - label: Kubernetes API
@@ -221,6 +226,12 @@ skills:
       - label: Operator SDK (Go)
         level: 5
       - label: Docker
+        level: 5
+      - label: Docker Compose
+        level: 5
+      - label: Apache Airflow
+        level: 5
+      - label: dbt
         level: 5
       - label: Terraform
         level: 5
@@ -256,11 +267,33 @@ skills:
         level: 5
       - label: GitLab CI
         level: 5
+      - label: Jenkins
+        level: 5
       - label: TeamCity
         level: 5
       - label: Jira
         level: 5
       - label: Confluence
+        level: 5
+      - label: Power BI
+        level: 5
+      - label: 1C BP
+        level: 5
+      - label: Bitrix24
+        level: 5
+      - label: Nginx
+        level: 5
+      - label: Prometheus
+        level: 5
+      - label: Grafana
+        level: 5
+      - label: Ubuntu
+        level: 5
+      - label: Fedora Linux
+        level: 5
+      - label: Windows Server
+        level: 5
+      - label: Apache HTTP Server
         level: 5
 
 languages:
