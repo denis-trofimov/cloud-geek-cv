@@ -58,34 +58,114 @@ education:
     end: "2000"
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Lead Software Developer (Platform Team Lead SWE)
+    org: Huma Therapeutics Ltd.
+    start: 2021-01-11
+    end: 2024-06-17
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      * Designed and developed a custom Internal Developer Portal (IDP) for all Huma products,
+      enabling 0-day and some day-2 operations such as data backup and restore.
+      * Automated pull request preview environments for backend APIs, reducing deployment
+      time from eight hours to fifteen minutes.
+      * Created Kubernetes operators that provide instant access to AWS S3, Google Cloud Storage,
+      and Atlas MongoDB PostgreSQL and Redis cache.
+      * Automated CI/CD with Argo CD, Grafana Cloud, and related tooling, increasing speed and reliability.
+      * Led an internal platform team of two senior engineers for two years.
+  - role: Chief Technical Officer
+    org: Sittme
+    start: 2019-11-20
+    end: 2020-06-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      * Led a cross-functional team (PM, designer, QA, backend, frontend, and mobile developers)
+      to build and operate a community-based babysitting mobile platform.
+      * Designed and implemented key features such as in-app notifications and video calls.
+      * Deployed 24 services to a private Kubernetes cluster for production and staging.
+      * Automated CI/CD to speed up testing and deployments, and mentored backend and frontend developers.
+  - role: Senior Software Developer
+    org: Tinkoff
+    start: 2018-11-19
+    end: 2019-05-31
+    summary: |
+      * Built and implemented a voice assistant CMS with Flask and PostgreSQL.
+      * Redesigned a low-latency API using Go, Redis, and PostgreSQL.
+      * Refactored a text-to-speech API service using async gRPC Python.
+      * Deployed services to Kubernetes and automated CI/CD with TeamCity.
+      * Performed code reviews, interviewing, and mentoring.
+  - role: Lead Software Developer
+    org: Vzor Systems, LLC
+    start: 2017-05-03
+    end: 2018-09-10
+    summary: |
+      * Designed the architecture and developed a biometric identification software solution,
+      including GUI client, server, and embedded components.
+      * Led and mentored a team of two software developers.
+      * Used classic image processing algorithms and CNNs to optimize identity recognition.
+      * Performed technological proof tests and prepared NIST-compliant reports.
+      * Presented biometric identification prototypes at Russian conferences such as All-over-IP,
+      SKUD, and TB Security Technology.
+  - role: Backend Software Developer
+    org: Bigur-consulting, LLC
+    start: 2016-11-01
+    end: 2017-05-01
+    summary: |
+      Developed a web-commerce backend for a wine importer using an in-house Python framework.
+  - role: Software Developer C++
+    org: Asoft, LLC
+    start: 2011-03-15
+    end: 2016-05-27
+    summary: |
+      * Developed a client-server application that simulated the technological operation
+      of train stations, enabling the client to fulfill a track upgrade contract.
+      * Designed and delivered a custom client-server system to predict energy usage
+      in train sections.
+      * Took over and successfully delivered ongoing projects, maintaining MySQL and Oracle databases.
+      * Worked in a team with a project manager and two interns to achieve project goals.
+  - role: Engineer
+    org: Khrunichev State Research and Production Space Center
+    start: 2010-11-01
+    end: 2012-01-10
+    summary: |
+      Developed two Windows desktop applications for satellite trajectory computations
+      using C++ and Borland C++ Builder.
 
 skills:
   - name: Technical Skills
     items:
+      - label: Golang
+        level: 5
+      - label: Kubernetes
+        level: 5
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: Terraform
         level: 5
-      - label: Cloud Computing
-        level: 4
+      - label: Helm
+        level: 5
+      - label: Docker
+        level: 5
+      - label: GitHub
+        level: 5
+      - label: Atlas MongoDB
+        level: 5
+      - label: Google Cloud
+        level: 5
+      - label: Amazon AWS
+        level: 5
+      - label: Microsoft Azure
+        level: 5
+      - label: C
+        level: 5
+      - label: C++
+        level: 5
 
 languages:
   - name: Russian
     label: Native
   - name: English
     label: Fluent
+  - name: Spanish
+    level: 2
+  - name: French
+    level: 2
+  - name: Thai
+    level: 2
