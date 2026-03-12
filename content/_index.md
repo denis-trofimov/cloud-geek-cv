@@ -14,7 +14,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: 'Open for hire and new opportunities'
+      text: 'I enjoy designing, developing and deploying cloud services for a living 👨‍💻⛷🛼🕺'
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
