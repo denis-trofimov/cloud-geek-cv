@@ -1,309 +1,324 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Denis Trofimov
-  given: Denis
-  family: Trofimov
-  alternate: ''
-  pronunciation: ''
-  pronouns: he/him
+  display: "Denis Trofimov"
+  given: "Denis"
+  family: "Trofimov"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
 postnominals: []
 status:
-  icon: "☕️"
-role: Senior Software Developer, Team Lead
-bio: |
-  Seasoned software developer, worked for start-ups, bank, industries like space and railroads.
+  icon: "👨‍💻"
+role: "Software Architect, Data Architect"
+bio: "Seasoned software developer, worked for start-ups, bank, industries like space and railroads.
+
 
   I am a Go/Python/C++/C software engineer and working in software development since 2010.
+
   For the last 3 years I did Platform Engineering, the development of the Internal Developer Portal (IDP),
+
   and making organizations shift left on the DevOps paradigm.
+
   In the past I've designed and developed standalone and client-server applications,
+
   with databases like Oracle DB, PostgreSQL, and MySQL.
+
   Created applications serving CRM, web automated order processing, and simulation of the technological
-  operation of railroad rolling stock.
 
+  operation of railroad rolling stock.\n"
 affiliations:
-  - name: Looking for job opportunities
-    url: ''
-
+  - name: "Looking for job opportunities"
+    url: ""
 links:
-  - icon: brands/github
-    url: https://github.com/denist-huma
-  - icon: brands/github
-    url: https://github.com/denis-trofimov
-  - icon: brands/telegram
-    url: https://t.me/DenisTrofimovDev
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/denis-trofimov-dev/
-  - icon: brands/x
-    url: https://twitter.com/deniscloudgeek
-  - icon: at-symbol
-    url: mailto:silaradost@yandex.ru
-    label: E-mail Me    
-  - icon: academicons/cv
-    url: /uploads/resume.pdf
-
+  - icon: "brands/github"
+    url: "https://github.com/denist-huma"
+  - icon: "brands/github"
+    url: "https://github.com/denis-trofimov"
+  - icon: "brands/telegram"
+    url: "https://t.me/DenisTrofimovDev"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/denis-trofimov-dev/"
+  - icon: "brands/x"
+    url: "https://twitter.com/deniscloudgeek"
+  - icon: "at-symbol"
+    url: "mailto:silaradost@yandex.ru"
+    label: "E-mail Me"
+  - icon: "academicons/cv"
+    url: "/uploads/resume.pdf"
 interests:
-  - Software Development
-  - Platform Engineering
-  - Cloud Computing
-
+  - "Software Development"
+  - "Platform Engineering"
+  - "Cloud Computing"
 education:
-  - degree: MEng in Applied Mechanics
-    institution: Moscow State University after M. V. Lomonosov
+  - degree: "MEng in Applied Mechanics"
+    institution: "Moscow State University after M. V. Lomonosov"
     end: "2002"
-  - degree: BSc in Applied Mechanics
-    institution: Moscow State University after M. V. Lomonosov
+  - degree: "BSc in Applied Mechanics"
+    institution: "Moscow State University after M. V. Lomonosov"
     end: "2000"
-
 experience:
-  - role: Software Architect
-    org: Scanner Travel LLC
-    start: 2025-01-01
-    summary: |
-      * Designed the software architecture for a data warehouse for a leasing company, consolidating data from core systems to improve reporting, risk analysis, and decision-making.
+  - role: "Software Architect"
+    org: "Scanner Travel LLC"
+    start: "2025-01-01"
+    summary: "* Designed the software architecture for a data warehouse for a leasing company, consolidating data from core systems to improve reporting, risk analysis, and decision-making.
+
       * Architected the refactoring of a core monolith into a service-oriented architecture (SOA) for a leasing company, defining service boundaries, integration contracts, and a migration roadmap to improve scalability and time-to-market for new features.
-      * Designed and developed new features for a client portal for an oil company, expanding self-service capabilities and improving visibility into contracts and operations for business users.
-  - role: Lead Software Developer (Platform Team Lead SWE)
-    org: Huma Therapeutics Ltd.
-    start: 2021-01-11
-    end: 2024-06-17
-    summary: |
-      * Designed and launched a custom Internal Developer Portal (IDP) that showcases Huma clinical trials and patient monitoring apps, removing a DevOps demo bottleneck and becoming one of three cloud value streams highlighted in the 2023 investment round.
+
+      * Designed and developed new features for a client portal for an oil company, expanding self-service capabilities and improving visibility into contracts and operations for business users.\n"
+  - role: "Lead Software Developer (Platform Team Lead SWE)"
+    org: "Huma Therapeutics Ltd."
+    start: "2021-01-11"
+    end: "2024-06-17"
+    summary: "* Designed and launched a custom Internal Developer Portal (IDP) that showcases Huma clinical trials and patient monitoring apps, removing a DevOps demo bottleneck and becoming one of three cloud value streams highlighted in the 2023 investment round.
+
       * Enabled product owners to prepare client demos in a self-service way via the IDP, eliminating reliance on the low-capacity DevOps team for demo setup and shortening demo preparation lead time.
+
       * Automated pull request preview environments for backend APIs, reduced the deploy delay by 95% from 8h to 15min.
+
       * Built Kubernetes operators that provision AWS S3, Google Cloud Storage, Atlas MongoDB, PostgreSQL, and Redis on demand, automating cloud resource management and cutting infrastructure costs by roughly 40%.
+
       * Updated CI/CD with Argo CD, Grafana Cloud, and related tooling, increasing release speed and reliability for cloud platform services.
-      * Hired, led, and mentored a team of two senior software engineers for two years, setting technical direction for the internal platform.
-  - role: Chief Technical Officer
-    org: Sittme
-    start: 2019-11-20
-    end: 2020-06-30
-    summary: |
-      * Led a cross-functional team (PM, designer, QA, backend, frontend, and mobile developers) to build and operate a community-based babysitting mobile platform, aligning delivery with product and business goals.
+
+      * Hired, led, and mentored a team of two senior software engineers for two years, setting technical direction for the internal platform.\n"
+  - role: "Chief Technical Officer"
+    org: "Sittme"
+    start: "2019-11-20"
+    end: "2020-06-30"
+    summary: "* Led a cross-functional team (PM, designer, QA, backend, frontend, and mobile developers) to build and operate a community-based babysitting mobile platform, aligning delivery with product and business goals.
+
       * Designed and implemented core engagement features such as in-app notifications and video calls, improving communication between parents and babysitters.
+
       * Deployed 24 microservices to a private Kubernetes cluster across production and staging environments, improving platform reliability and scalability.
+
       * Automated CI/CD pipelines to accelerate testing and deployments, shortening feedback loops for the development team.
+
       * Detected and resolved issues across services in production, increasing platform stability and user trust.
-      * Mentored backend and frontend developers, raising code quality and delivery autonomy across the team.
-  - role: Senior Software Developer
-    org: T-Bank (ex. Tinkoff)
-    start: 2018-11-19
-    end: 2019-05-31
-    summary: |
-      * Built and rolled out a voice assistant CMS using Flask and PostgreSQL, giving product teams self-service control over voice scenarios and content.
+
+      * Mentored backend and frontend developers, raising code quality and delivery autonomy across the team.\n"
+  - role: "Senior Software Developer"
+    org: "T-Bank (ex. Tinkoff)"
+    start: "2018-11-19"
+    end: "2019-05-31"
+    summary: "* Built and rolled out a voice assistant CMS using Flask and PostgreSQL, giving product teams self-service control over voice scenarios and content.
+
       * Redesigned a low-latency API in Go with Redis and PostgreSQL to meet strict latency and reliability requirements for the bank’s voice assistant.
+
       * Refactored a text-to-speech API service using async gRPC in Python, increasing throughput and simplifying maintenance.
+
       * Deployed services to a Kubernetes cluster and automated CI/CD with TeamCity, reducing manual deployment work and standardizing release workflows.
-      * Performed code reviews, interviewing, and mentoring, helping grow the team and maintain high engineering standards.
-  - role: Lead Software Developer
-    org: Vzor Systems, LLC
-    start: 2017-05-03
-    end: 2018-09-10
-    summary: |
-      * Designed the architecture and developed a biometric identification software solution, including GUI client, server, and embedded components, enabling high-accuracy identity verification for customers.
+
+      * Performed code reviews, interviewing, and mentoring, helping grow the team and maintain high engineering standards.\n"
+  - role: "Lead Software Developer"
+    org: "Vzor Systems, LLC"
+    start: "2017-05-03"
+    end: "2018-09-10"
+    summary: "* Designed the architecture and developed a biometric identification software solution, including GUI client, server, and embedded components, enabling high-accuracy identity verification for customers.
+
       * Hired and led a team of two software developers, defining development practices and guiding delivery of biometric features.
+
       * Applied classic image processing algorithms and CNNs to optimize identity recognition accuracy and performance.
+
       * Performed technological proof tests and prepared NIST-compliant reports, demonstrating solution performance to stakeholders and regulators.
-      * Presented biometric identification prototypes at Russian conferences such as All-over-IP, SKUD, and TB Security Technology, increasing product visibility and credibility.
-  - role: Backend Software Developer
-    org: Bigur-consulting, LLC
-    start: 2016-11-01
-    end: 2017-05-01
-    summary: |
-      Developed a web-commerce backend for a wine importer using an in-house Python framework.
-  - role: Software Developer C++
-    org: Asoft, LLC
-    start: 2011-03-15
-    end: 2016-05-27
-    summary: |
-      * Developed and delivered a client-server application that simulated the technological operation of train stations, enabling the client to fulfill a track-upgrade contract at Syzran station 1.
+
+      * Presented biometric identification prototypes at Russian conferences such as All-over-IP, SKUD, and TB Security Technology, increasing product visibility and credibility.\n"
+  - role: "Backend Software Developer"
+    org: "Bigur-consulting, LLC"
+    start: "2016-11-01"
+    end: "2017-05-01"
+    summary: "Developed a web-commerce backend for a wine importer using an in-house Python framework.\n"
+  - role: "Software Developer C++"
+    org: "Asoft, LLC"
+    start: "2011-03-15"
+    end: "2016-05-27"
+    summary: "* Developed and delivered a client-server application that simulated the technological operation of train stations, enabling the client to fulfill a track-upgrade contract at Syzran station 1.
+
       * Designed and delivered a custom client-server system to predict energy usage in train sections, giving operators better planning and cost-control capabilities.
+
       * Took over two in-flight projects when the lead programmer left, stabilizing delivery and preserving knowledge for the client.
+
       * Successfully shipped software while maintaining MySQL and Oracle databases in production.
-      * Collaborated with a project manager and two interns to meet project goals, mentoring junior team members along the way.
-  - role: Engineer
-    org: Khrunichev State Research and Production Space Center
-    start: 2010-11-01
-    end: 2012-01-10
-    summary: |
-      * Developed two Windows desktop applications for satellite trajectory computations using C++ and Borland C++ Builder, supporting aerospace research and mission analysis teams.
 
+      * Collaborated with a project manager and two interns to meet project goals, mentoring junior team members along the way.\n"
+  - role: "Engineer"
+    org: "Khrunichev State Research and Production Space Center"
+    start: "2010-11-01"
+    end: "2012-01-10"
+    summary: "* Developed two Windows desktop applications for satellite trajectory computations using C++ and Borland C++ Builder, supporting aerospace research and mission analysis teams.\n"
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - label: Golang
+      - label: "Golang"
         level: 5
-      - label: Python
+      - label: "Python"
         level: 5
-      - label: TypeScript
+      - label: "TypeScript"
         level: 5
-      - label: JavaScript
+      - label: "JavaScript"
         level: 5
-      - label: C++
+      - label: "C++"
         level: 5
-      - label: C
+      - label: "C"
         level: 5
-      - label: Ruby
+      - label: "Ruby"
         level: 5
-      - label: Bash
+      - label: "Bash"
         level: 5
-      - label: SQL
+      - label: "SQL"
         level: 5
-      - label: PHP
+      - label: "PHP"
         level: 5
-      - label: Laravel
+      - label: "Laravel"
         level: 5
-      - label: REST API
+      - label: "REST API"
         level: 5
-      - label: Swagger
+      - label: "Swagger"
         level: 5
-      - label: Flask
+      - label: "Flask"
         level: 5
-      - label: Gunicorn
+      - label: "Gunicorn"
         level: 5
-      - label: gRPC
+      - label: "gRPC"
         level: 5
-      - label: TensorFlow
+      - label: "TensorFlow"
         level: 5
-      - label: NumPy
+      - label: "NumPy"
         level: 5
-      - label: SQLAlchemy
+      - label: "SQLAlchemy"
         level: 5
-      - label: ReactJS
+      - label: "ReactJS"
         level: 5
-      - label: Vue.js
+      - label: "Vue.js"
         level: 5
-      - label: Hugo
+      - label: "Hugo"
         level: 5
-      - label: OpenCV
+      - label: "OpenCV"
         level: 5
-      - label: Caffe
+      - label: "Caffe"
         level: 5
-      - label: SciPy
+      - label: "SciPy"
         level: 5
-      - label: MQTT
+      - label: "MQTT"
         level: 5
-      - label: RabbitMQ
+      - label: "RabbitMQ"
         level: 5
-      - label: Qt
+      - label: "Qt"
         level: 5
-      - label: PostgreSQL
+      - label: "PostgreSQL"
         level: 5
-      - label: MongoDB
+      - label: "MongoDB"
         level: 5
-      - label: Atlas MongoDB
+      - label: "Atlas MongoDB"
         level: 5
-      - label: Redis
+      - label: "Redis"
         level: 5
-      - label: MariaDB
+      - label: "MariaDB"
         level: 5
-      - label: SQLite
+      - label: "SQLite"
         level: 5
-      - label: MySQL
+      - label: "MySQL"
         level: 5
-      - label: Oracle DB
+      - label: "Oracle DB"
         level: 5
-      - label: Git
+      - label: "Git"
         level: 5
-      - label: GitHub
+      - label: "GitHub"
         level: 5
-      - label: GitLab
+      - label: "GitLab"
         level: 5
-      - label: Bitbucket
+      - label: "Bitbucket"
         level: 5
-      - label: UML
+      - label: "UML"
         level: 5
-      - label: HTML
+      - label: "HTML"
         level: 5
-      - label: XML
+      - label: "XML"
         level: 5
-      - label: Kubernetes
+      - label: "Kubernetes"
         level: 5
-      - label: Kubernetes API
+      - label: "Kubernetes API"
         level: 5
-      - label: Operator SDK (Go)
+      - label: "Operator SDK (Go)"
         level: 5
-      - label: Docker
+      - label: "Docker"
         level: 5
-      - label: Docker Compose
+      - label: "Docker Compose"
         level: 5
-      - label: Apache Airflow
+      - label: "Apache Airflow"
         level: 5
-      - label: dbt
+      - label: "dbt"
         level: 5
-      - label: Terraform
+      - label: "Terraform"
         level: 5
-      - label: Helm
+      - label: "Helm"
         level: 5
-      - label: Argo CD
+      - label: "Argo CD"
         level: 5
-      - label: Helmfile
+      - label: "Helmfile"
         level: 5
-      - label: KubeDB
+      - label: "KubeDB"
         level: 5
-      - label: Google Cloud
+      - label: "Google Cloud"
         level: 5
-      - label: GCP GKE
+      - label: "GCP GKE"
         level: 5
-      - label: Amazon AWS
+      - label: "Amazon AWS"
         level: 5
-      - label: AWS EKS
+      - label: "AWS EKS"
         level: 5
-      - label: Microsoft Azure
+      - label: "Microsoft Azure"
         level: 5
-      - label: Azure AKS
+      - label: "Azure AKS"
         level: 5
-      - label: Atlas Cloud
+      - label: "Atlas Cloud"
         level: 5
-      - label: Grafana Cloud
+      - label: "Grafana Cloud"
         level: 5
-      - label: ELK
+      - label: "ELK"
         level: 5
-      - label: Firebase
+      - label: "Firebase"
         level: 5
-      - label: GitHub CI
+      - label: "GitHub CI"
         level: 5
-      - label: GitLab CI
+      - label: "GitLab CI"
         level: 5
-      - label: Jenkins
+      - label: "Jenkins"
         level: 5
-      - label: TeamCity
+      - label: "TeamCity"
         level: 5
-      - label: Jira
+      - label: "Jira"
         level: 5
-      - label: Confluence
+      - label: "Confluence"
         level: 5
-      - label: Power BI
+      - label: "Power BI"
         level: 5
-      - label: 1C BP
+      - label: "1C BP"
         level: 5
-      - label: Bitrix24
+      - label: "Bitrix24"
         level: 5
-      - label: Nginx
+      - label: "Nginx"
         level: 5
-      - label: Prometheus
+      - label: "Prometheus"
         level: 5
-      - label: Grafana
+      - label: "Grafana"
         level: 5
-      - label: Ubuntu
+      - label: "Ubuntu"
         level: 5
-      - label: Fedora Linux
+      - label: "Fedora Linux"
         level: 5
-      - label: Windows Server
+      - label: "Windows Server"
         level: 5
-      - label: Apache HTTP Server
+      - label: "Apache HTTP Server"
         level: 5
-
 languages:
-  - name: Russian
-    label: Native
-  - name: English
-    label: Fluent
-  - name: Spanish
+  - name: "Russian"
+    label: "Native"
+  - name: "English"
+    label: "Fluent"
+  - name: "Spanish"
     level: 2
-  - name: French
+  - name: "French"
     level: 2
-  - name: Thai
+  - name: "Thai"
     level: 2
