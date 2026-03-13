@@ -1,14 +1,12 @@
 ---
 title: Lessons Learned by Mentoring Programmers repost.
-author: Denis Trofimov
+authors:
+  - me
 type: blog
 date: 2018-09-05T17:28:46+00:00
 url: /lessons-learned-by-mentoring-programmers-repost/
 featured_image: Pair-programming-Kang-min-Liu.jpg
-accesspress_mag_post_template_layout:
-  - global-template
-accesspress_mag_sidebar_layout:
-  - global-sidebar
+
 categories:
   - learning
 tags:

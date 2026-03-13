@@ -1,13 +1,11 @@
 ---
 title: Moscow Python Conf++ 2018 video report.
-author: Denis Trofimov
+authors:
+  - me
 type: blog
 date: 2018-11-12T19:31:30+00:00
 url: /moscow-python-conf-2018-video/
-accesspress_mag_post_template_layout:
-  - global-template
-accesspress_mag_sidebar_layout:
-  - global-sidebar
+
 categories:
   - networking
 tags:

@@ -1,13 +1,11 @@
 ---
 title: A foreword from the author.
-author: Denis Trofimov
+authors:
+  - me
 type: blog
 date: 2018-05-06T21:49:06+00:00
 url: /foreword-from-author/
-accesspress_mag_post_template_layout:
-  - global-template
-accesspress_mag_sidebar_layout:
-  - global-sidebar
+
 categories:
   - machine learning
 tags:

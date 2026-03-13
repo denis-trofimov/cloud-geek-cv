@@ -1,14 +1,12 @@
 ---
 title: What easy questions on Javascript I can ask?
-author: Denis Trofimov
+authors:
+  - me
 type: blog
 date: 2018-06-25T23:29:33+00:00
 url: /what-easy-questions-on-javascript-i-can-ask/
 featured_image: WhatAboutAsynchronousCallbacks.png
-accesspress_mag_post_template_layout:
-  - global-template
-accesspress_mag_sidebar_layout:
-  - global-sidebar
+
 categories:
   - learning
 tags:

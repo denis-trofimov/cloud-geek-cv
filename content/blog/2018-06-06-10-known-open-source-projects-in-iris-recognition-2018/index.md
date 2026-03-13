@@ -1,14 +1,12 @@
 ---
 title: 10 Known Open Source Projects in Iris Recognition 2018
-author: Denis Trofimov
+authors:
+  - me
 type: blog
 date: 2018-06-06T20:33:50+00:00
 url: /10-known-open-source-projects-in-iris-recognition-2018/
 featured_image: Eye-Photo-by-Tom-Tolkien.jpg
-accesspress_mag_post_template_layout:
-  - global-template
-accesspress_mag_sidebar_layout:
-  - global-sidebar
+
 categories:
   - iris recognition
 tags:
